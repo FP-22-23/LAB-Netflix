@@ -7,7 +7,7 @@
 
 Este proyecto es una ampliación del examen de la primera convocatoria del curso 2021/22. Los ejercicios 1-4 (que aparecen con puntuación se pusieron tal cual en el examen). Del ejercicio 5 en adelante, son una ampliación.
 
-En este examen vamos a analizar datos de títulos de producciones audiovisuales que se pueden ver en la plataforma Netflix. Para ello, partiremos de un un conjunto de datos de la plataforma [Kaggle](https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies)del que extraeremos el siguiente conjunto de propiedades:
+En este examen vamos a analizar datos de títulos de producciones audiovisuales que se pueden ver en la plataforma Netflix. Para ello, partiremos de un un conjunto de datos de la plataforma [Kaggle](https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies) del que extraeremos el siguiente conjunto de propiedades:
 
 - **Titulo**: nombre de la producción audiovisual, de tipo String, consultable.
 - **Tipo**: una propiedad con dos valores posibles SHOW o MOVIE, de tipo enumerado, consultable.
